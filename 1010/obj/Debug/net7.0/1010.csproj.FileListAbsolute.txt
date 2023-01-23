@@ -1,0 +1,15 @@
+/Users/albertselev/Projects/1010/1010/bin/Debug/net7.0/1010
+/Users/albertselev/Projects/1010/1010/bin/Debug/net7.0/1010.deps.json
+/Users/albertselev/Projects/1010/1010/bin/Debug/net7.0/1010.runtimeconfig.json
+/Users/albertselev/Projects/1010/1010/bin/Debug/net7.0/1010.dll
+/Users/albertselev/Projects/1010/1010/bin/Debug/net7.0/1010.pdb
+/Users/albertselev/Projects/1010/1010/obj/Debug/net7.0/1010.csproj.AssemblyReference.cache
+/Users/albertselev/Projects/1010/1010/obj/Debug/net7.0/1010.GeneratedMSBuildEditorConfig.editorconfig
+/Users/albertselev/Projects/1010/1010/obj/Debug/net7.0/1010.AssemblyInfoInputs.cache
+/Users/albertselev/Projects/1010/1010/obj/Debug/net7.0/1010.AssemblyInfo.cs
+/Users/albertselev/Projects/1010/1010/obj/Debug/net7.0/1010.csproj.CoreCompileInputs.cache
+/Users/albertselev/Projects/1010/1010/obj/Debug/net7.0/1010.dll
+/Users/albertselev/Projects/1010/1010/obj/Debug/net7.0/refint/1010.dll
+/Users/albertselev/Projects/1010/1010/obj/Debug/net7.0/1010.pdb
+/Users/albertselev/Projects/1010/1010/obj/Debug/net7.0/1010.genruntimeconfig.cache
+/Users/albertselev/Projects/1010/1010/obj/Debug/net7.0/ref/1010.dll
